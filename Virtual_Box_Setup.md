@@ -14,16 +14,26 @@ Once installation is done
 
 The following should be running
 
-   `/usr/bin/VBoxService -f` 
-   `/usr/bin/VBoxClient --vmsvga` 
-   `/usr/bin/VBoxClient --vmsvga` 
-   `/usr/bin/VBoxClient --clipboard` 
-   `/usr/bin/VBoxClient --clipboard` 
-   `/usr/bin/VBoxClient --display` 
-   `/usr/bin/VBoxClient --display` 
-   `/usr/bin/VBoxClient --seamless` 
-   `/usr/bin/VBoxClient --seamless` 
-   `/usr/bin/VBoxClient --draganddrop`
+`/usr/bin/VBoxService -f`
+
+`/usr/bin/VBoxClient --vmsvga`
+
+`/usr/bin/VBoxClient --vmsvga`
+
+`/usr/bin/VBoxClient --clipboard`
+
+`/usr/bin/VBoxClient --clipboard`
+
+`/usr/bin/VBoxClient --display`
+
+`/usr/bin/VBoxClient --display`
+
+`/usr/bin/VBoxClient --seamless`
+
+`/usr/bin/VBoxClient --seamless`
+
+`/usr/bin/VBoxClient --draganddrop`
+
 
 `vmsvga` - should be running to bring the screen to full resolution
 
